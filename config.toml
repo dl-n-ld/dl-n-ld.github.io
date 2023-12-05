@@ -15,7 +15,7 @@
 theme = "ananke"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://dlnld.gitlab.io"
+baseurl = "https://dlnld.github.io"
 title = "DLnLD: Deep Learning and Linguistic Linked Data"
 contentdir    = "content"
 layoutdir     = "layouts"
