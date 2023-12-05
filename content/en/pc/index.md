@@ -43,5 +43,3 @@ menu:
 - Ciprian-Octavian Truic ̆a, POLITEHNICA Bucharest, Romania
 - Nicolas Turenne, Guangdong University of Foreign Studies, China
 - Slavko Žitnik, University of Ljubljana, Slovenia
-
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

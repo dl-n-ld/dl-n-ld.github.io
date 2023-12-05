@@ -76,15 +76,11 @@ data
   - Fine tuning LLMs using Linguistic
 Linked (meta)Data
   - Graph Neural Networks
-  - Knowledge/Linguistic Graphs embed-
-dings
+  - Knowledge/Linguistic Graphs embeddings
   - LLOD for model explainability/sourcing
-  - Neural models for under-resourced lan-
-guages
-- Joint Deep Learning and Linguistic Data ap-
-plications
-  - Use cases combining Language Models
-and Structured Linguistic Data
+  - Neural models for under-resourced languages
+- Joint Deep Learning and Linguistic Data applications
+  - Use cases combining Language Models and Structured Linguistic Data
   - LLOD and DL for Digital Humanities
   - Question-Answering on graph data
 
@@ -97,7 +93,7 @@ based on the use of BOTH Deep Learning techniques and Linguistic Linked (meta)Da
 
 *(Current dates are tentative and will be revised when we will have more input from COLING-LREC Workshop Chairs)*
 
-(All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
+All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
 
 - Final submissions due: 22 February 2024
 - Notification of acceptance: 29 March 2024 
