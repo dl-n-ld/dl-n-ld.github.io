@@ -37,7 +37,7 @@ menu:
 - Georg Rehm, DFKI GmbH, Berlin, Germany
 - Harald Sack, Karlsruhe Institute of Technology, Karlsruhe, Germany
 - Didier Schwab, Université Grenoble Alpes, France
-- Ranka Stankovi ́c, University of Belgrade, Serbia
+- Ranka Stanković, University of Belgrade, Serbia
 - Andon Tchechmedjiev, École des Mines, Alès, France
 - Dimitar Trajanov, Ss. Cyril and Methodius University – Skopje, Macedonia
 - Ciprian-Octavian Truic ̆a, POLITEHNICA Bucharest, Romania
