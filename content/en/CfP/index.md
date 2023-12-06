@@ -91,7 +91,7 @@ based on the use of BOTH Deep Learning techniques and Linguistic Linked (meta)Da
 
 ## Important Dates
 
-*(Current dates are tentative and will be revised when we will have more input from COLING-LREC Workshop Chairs)*
+*(Current dates are tentative and will be revised when we will have more input from LREC-COLING Workshop Chairs)*
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
 
