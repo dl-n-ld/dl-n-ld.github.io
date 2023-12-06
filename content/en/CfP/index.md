@@ -1,5 +1,5 @@
 ---
-title: "Call for Paper"
+title: "Call for Papers"
 description: "What does Linguistic Linked Data
 brings to Deep Learning and vice versa ? Let’s
 bring together these two complementary approaches in NLP"
