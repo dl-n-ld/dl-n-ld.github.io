@@ -34,8 +34,8 @@ et al., 2014), Wikidata (Vrandečić and Krötzsch,
 Treebank (Nivre et al., 2020; Chiarcos et al., 2021),
 DBpedia Abstract Corpus (Brümmer et al., 2016))
 information, structured using common metadata
-(e.g., OntoLex (McCrae et al., 2017), NIF (Hellmann et al., 2013), etc.) and standardised data cat-
-egories (e.g., lexinfo (Cimiano et al., 2011), OliA
+(e.g., OntoLex (McCrae et al., 2017), NIF (Hellmann et al., 2013), etc.) and standardised 
+data categories (e.g., lexinfo (Cimiano et al., 2011), OliA
 (Chiarcos and Sukhareva, 2015)).
 
 Both communities bring striking contributions
@@ -69,8 +69,7 @@ among which (but not exclusively):
   - Corpus annotation
   - Ontology localization
   - Knowledge/Linguistic Graphs creation or expansion
-- Linguistic Linked Data for Deep Learning,
-among which (but not exclusively):
+- Linguistic Linked Data for Deep Learning, among which (but not exclusively):
   - Linguistic/Knowledge Graphs as training
 data
   - Fine tuning LLMs using Linguistic
@@ -95,6 +94,6 @@ based on the use of BOTH Deep Learning techniques and Linguistic Linked (meta)Da
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
 
-- Final submissions due: 22 February 2024
-- Notification of acceptance: 29 March 2024 
-- Camera-ready due: 14 April 2024
+- Final submissions due: 25 February 2024
+- Notification of acceptance: 25 March 2024 
+- Camera-ready due: 2nd April 2024
