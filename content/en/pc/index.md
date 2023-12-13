@@ -40,6 +40,6 @@ menu:
 - Ranka Stanković, University of Belgrade, Serbia
 - Andon Tchechmedjiev, École des Mines, Alès, France
 - Dimitar Trajanov, Ss. Cyril and Methodius University – Skopje, Macedonia
-- Ciprian-Octavian Truic ̆a, POLITEHNICA Bucharest, Romania
+- Ciprian-Octavian Truică, POLITEHNICA Bucharest, Romania
 - Nicolas Turenne, Guangdong University of Foreign Studies, China
 - Slavko Žitnik, University of Ljubljana, Slovenia
