@@ -18,7 +18,7 @@ menu:
 # Program Committee
 
 - Mehwish Alam, Télécom Paris, Institut Polytechnique de Paris, France
-- Russa Biswas, Hasso Platner Institute, Berlin, Germany
+- Russa Biswas, Hasso Plattner Institute, Potsdam, Germany
 - Milana Bolatbek, Al-Farabi Kazakh National University, Kazakhstan
 - Michael Cochez, Vrije Universiteit Amsterdam, Netherlands
 - Milan Dojchinovski, Czech Technical University in Prague, Czech Republic
