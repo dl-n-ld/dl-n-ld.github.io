@@ -18,7 +18,7 @@ menu:
 
 Submission is electronic, using the Softconf START conference management system via the link:
 
-[DLnLD Softconf link (to be specified)]()
+[DLnLD Softconf link](https://softconf.com/lrec-coling2024/dlnld2024/)
 
 All papers must follow the LREC-COLING 2024 two-column format, using the supplied official style files. The templates can be downloaded from the Style Files and Formatting page provided on the website. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
