@@ -24,7 +24,9 @@ All papers must follow the LREC-COLING 2024 two-column format, using the supplie
 
 ## Author Responsibilities
 
-Papers must be of original, previously-unpublished work. Papers must be anonymized to support double-blind reviewing. Submissions thus must not include authors’ names and affiliations. The submissions should also avoid links to non-anonymized repositories: the code should be either submitted as supplementary material in the final version of the paper, or as a link to an anonymized repository (e.g., Anonymous GitHub or Anonym Share). Papers that do not conform to these requirements will be rejected without review.
+Papers must be of original, previously-unpublished work. Papers must **not** be anonymized. Submissions thus must include authors’ names and affiliations. 
+
+<!--The submissions should also avoid links to non-anonymized repositories: the code should be either submitted as supplementary material in the final version of the paper, or as a link to an anonymized repository (e.g., Anonymous GitHub or Anonym Share). Papers that do not conform to these requirements will be rejected without review.-->
 
 <!-- If the paper is available as a preprint, this must be indicated on the submission form but not in the paper itself. In addition, DLnLD 2024 workshop will follow the same policy as ACL conferences establishing an anonymity period during which non-anonymous posting of preprints is not allowed.
 
