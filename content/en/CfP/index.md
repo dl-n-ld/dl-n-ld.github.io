@@ -90,10 +90,8 @@ based on the use of BOTH Deep Learning techniques and Linguistic Linked (meta)Da
 
 ## Important Dates
 
-*(Current dates are tentative and will be revised when we will have more input from LREC-COLING Workshop Chairs)*
-
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
 
-- Final submissions due: 25 February 2024
-- Notification of acceptance: 25 March 2024 
-- Camera-ready due: 2nd April 2024
+- Final submissions due: 9th March 20
+- Notification of acceptance: 2nd April 2024 
+- Camera-ready due: 12th April 2024
