@@ -92,6 +92,6 @@ based on the use of BOTH Deep Learning techniques and Linguistic Linked (meta)Da
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”)
 
-- Final submissions due: 9th March 20 (**no further extension to be expected**)
+- Final submissions due: 9th March 2024 (**no further extension to be expected**)
 - Notification of acceptance: 2nd April 2024 
 - Camera-ready due: 12th April 2024
