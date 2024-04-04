@@ -9,3 +9,7 @@ cascade:
 This workshop aims is to gather the well established *Linguistic Linked Open Data* community and the exploding *Deep Learning* practitioners in order to share work and ideas occurring at the intersection of the two areas.
 
 It will be a half day workshop, taking place May 21, 2024 in Torino, Italy, at the[ LREC-COLING 2024](https://lrec-coling-2024.org/) conference venue.
+
+![The Nexus Linguarum COST action <](/images/Nexus-Linguarum_Web-Logo-head-08.png)
+
+The DLnLD workshop is supported by the Nexus Linguarum COST action.
