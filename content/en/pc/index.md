@@ -3,7 +3,9 @@ title: "Organizers"
 hide_title: true
 description: ""
 featured_image: '/images/turin-panorama.jpg'
-weight: 1
+menu:
+  main:
+    weight: 1
 ---
 
 # Workshop Chairs

@@ -2,7 +2,9 @@
 title: "Submitting"
 hide_title: true
 description: "The authors kit is the one used in COLING-LREC 2024."
-weight: 3
+menu:
+  main:
+    weight: 3
 ---
 
 ## Authors kit

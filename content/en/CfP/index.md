@@ -4,7 +4,9 @@ description: "What does Linguistic Linked Data
 brings to Deep Learning and vice versa ? Let’s
 bring together these two complementary approaches in NLP"
 featured_image: '/images/turin-panorama.jpg'
-weight: 2
+menu:
+  main:
+    weight: 2
 ---
 
 ## Motivations for the Workshop
